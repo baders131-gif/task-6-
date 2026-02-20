@@ -1,5 +1,3 @@
-# task-6-
-robot arm design
 # Robot Arm Design
 
 This project shows the robot arm model created using Onshape.
